@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": "пассажир",
+      "displayAttributeName": "фИО",
+      "required": true,
+      "relationName": "ИнфБронь.Пассажир",
+      "projection": "ПассажирL",
+      "detailModelName": "i-i-s-tshest-инф-бронь"
+    }
+  ],
+  "external": false,
+  "caption": "Рейс",
+  "name": "IISTshestРейсE",
+  "className": "РейсE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-tshest-рейс",
+      "modelProjection": "РейсE"
+    }
+  ]
+}

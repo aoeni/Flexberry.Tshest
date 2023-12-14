@@ -1,0 +1,50 @@
+﻿{
+  "applicationCaption": "Tshest",
+  "applicationTitle": "Tshest",
+  "items": [
+    {
+      "link": null,
+      "menuName": "tshest",
+      "caption": "Tshest",
+      "title": "Tshest",
+      "children": [
+        {
+          "link": "i-i-s-tshest-посад-талон-l",
+          "menuName": null,
+          "caption": "Посад талон",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-tshest-пассажир-l",
+          "menuName": null,
+          "caption": "Пассажир",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-tshest-рейс-l",
+          "menuName": null,
+          "caption": "Рейс",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-tshest-код-брони-l",
+          "menuName": null,
+          "caption": "Код брони",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-tshest-место-на-рейс-l",
+          "menuName": null,
+          "caption": "Место на рейс",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-tshest-рейс-e",
+  "editForm": "i-i-s-tshest-рейс-e",
+  "external": false,
+  "caption": "Рейс",
+  "name": "IISTshestРейсL",
+  "className": "РейсL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-tshest-рейс",
+      "modelProjection": "РейсL"
+    }
+  ]
+}

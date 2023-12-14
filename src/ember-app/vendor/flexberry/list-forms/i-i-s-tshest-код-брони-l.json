@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-tshest-код-брони-e",
+  "editForm": "i-i-s-tshest-код-брони-e",
+  "external": false,
+  "caption": "Код брони",
+  "name": "IISTshestКодБрониL",
+  "className": "КодБрониL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-tshest-код-брони",
+      "modelProjection": "КодБрониL"
+    }
+  ]
+}
